@@ -1,0 +1,66 @@
+body {
+    font-family: Helvetica, Arial, Verdana, Tahoma ,sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    margin-left: 200px;
+    margin-right: 600px;
+}
+
+.brd {
+    border: 15px double black;
+    padding: 10px;
+    border-width: 10;
+    border-color: rgba(229, 235, 240, 0.979);
+    
+   }
+
+   
+
+   h1 {
+       font-size:  36px;
+       border-bottom: 2px solid;
+       border-bottom-color: rgba(229, 235, 240, 0.979);  
+
+   }
+
+   .incline {
+       font-style: italic;
+
+   }
+
+   h2 {
+       font-size: 34px;
+    border-bottom: 2px solid;
+    border-bottom-color: rgba(229, 235, 240, 0.979);
+   }
+
+   .formula {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-style: unset;
+    background-color: rgba(229, 235, 240, 0.979);
+    margin-left: 2px;
+    padding: 10px;
+    
+   }
+
+   h3 {
+    font-size:  30px;
+   
+   }
+   pre {
+       font-family: monospace;
+       font-style: unset;
+       background-color: rgba(229, 235, 240, 0.979);
+       padding: 10px;
+       margin-left: 2px;
+   }
+
+   h4 {
+       font-size: 28px;
+   }
+   .cup {
+       font-size: 30px;
+       cursor: pointer;
+       text-decoration: underline;
+   }
+
